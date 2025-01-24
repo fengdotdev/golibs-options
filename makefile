@@ -10,3 +10,7 @@ fix:
 
 updatemod:
 	go get -u ./...
+
+
+test:
+	go test -v ./...
