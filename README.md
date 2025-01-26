@@ -8,4 +8,4 @@ Library for working with functional options in Go.
 ```
 
 
-other repos golibs [https://github.com/fengdotdev/golibs]
+other repos golibs [https://github.com/fengdotdev/golibs](https://github.com/fengdotdev/golibs)
